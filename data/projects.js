@@ -64,11 +64,13 @@ export const projects = [
     id: 4,
     title: "Club Management Website",
     description:
-      "A modern event and membership management platform with online registration, event management, and an administrative dashboard.",
+      "A modern club management and community platform designed to showcase club activities, memberships, events, and services with an easy-to-use .",
+
     features: [
+    
+      "Event and activity management",
       "Member registration",
-      "Event management",
-      "Admin dashboard",
+      "Club information and services",
       "Responsive UI",
     ],
     tags: ["React", "Tailwind CSS", "Framer Motion"],
